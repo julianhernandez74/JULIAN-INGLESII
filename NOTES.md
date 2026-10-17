@@ -1,82 +1,51 @@
 # Translation Notes
 
-**Student:** [Your name]
-**Course:** [Inglés I / Inglés II]
-**Date:** [dd/mm/yyyy]
+**Student:** Julian David Hernandez Navarro  
+**Course:** Inglés II  
+**Date:** 17/10/2026
 
 ---
 
 ## Why this file exists
 
-Your Spanish profile and your English profile are **not** the same text in two
-languages. They are two different documents for two different readers.
-
-Some examples of what changes:
-
-- A Colombian *hoja de vida* often includes a photo, an ID number, an address
-  and a date of birth. An English CV or profile does not. In many countries
-  this information is removed on purpose, because of anti-discrimination law.
-- Spanish professional writing often uses nouns: *"Manejo de bases de datos
-  relacionales."* English uses action verbs: *"Built and maintained relational
-  databases."*
-- Some technical words are never translated. Nobody writes *"marco de trabajo
-  JavaScript del lado del cliente"*. We write *framework*.
-
-This file is where you show that you understood those differences.
+My Spanish and English professional profiles are written for different audiences. I did not translate every sentence word for word. I adapted the language to make my English profile clear, professional, and easy to understand.
 
 ---
 
 ## Question 1 · What did you leave out?
 
-Name **one thing** that appears in your Spanish version and does **not** appear
-in your English version. Explain why you removed it.
-
-> [Write 2–4 sentences in English.]
+I left out the word *technological* from the Spanish expression *solución de problemas tecnológicos* in my About section. In English, I used *problem-solving* because it is shorter and sounds more natural in a professional profile. This keeps the message clear without adding unnecessary words.
 
 ---
 
 ## Question 2 · What did you not translate?
 
-Name **one technical term** that you kept in English in both versions.
-Explain why translating it would be a bad idea.
-
-> [Write 2–4 sentences in English.]
+I kept the technical term *Flutter* in both my Spanish and English project descriptions. Flutter is the name of the framework I used to develop RunSport. Translating the name would be confusing because developers recognize it as a specific technology.
 
 ---
 
 ## Question 3 · What was difficult?
 
-Name **one sentence** that was hard to write in English. Copy the Spanish
-version and your English version. Explain what you changed and why a
-word-by-word translation did not work.
+**Spanish:** Aplicación móvil para organizar entrenamientos de carrera, consultar objetivos y seguir el progreso deportivo.
 
-> Spanish: [copy your sentence here]
->
-> English: [copy your sentence here]
->
-> [Write 2–4 sentences in English explaining the change.]
+**English:** Developed a mobile application to organize running workouts, review training goals, and track progress.
+
+This sentence was difficult because a word-by-word translation did not sound natural. I changed *entrenamientos de carrera* to *running workouts* and started with the action verb *Developed* to make the description more professional. I also used *track progress* instead of translating *seguir el progreso* literally.
 
 ---
 
 ## Tools
 
-You may use dictionaries, translators and AI tools. But you must say so here.
-
-**Which tools did you use, and for what?**
-
-> [Write your answer in English. Be specific. For example: "I used
-> Cambridge Dictionary to check the difference between *develop* and
-> *design*." Or: "I used a translator for a first version of the About
-> section, and then I rewrote it because it sounded too formal."]
+I used **ChatGPT** to organize my answers, review English grammar, and improve the wording of my professional profile. I used **Visual Studio Code in GitHub Codespaces** to edit `index.html`, `script.js`, and this `NOTES.md` file. I used **GitHub** to manage the repository and publish my portfolio. I reviewed the descriptions of my real projects, Voces con Manos and RunSport, to keep the information accurate.
 
 ---
 
 ## Self-check before you submit
 
-- [ ] Both dictionaries in `script.js` have the same keys.
-- [ ] No `[square brackets]` are left in the page.
-- [ ] My page has no address, no phone number and no ID number.
-- [ ] The language button works in both directions.
-- [ ] All my links open the correct page.
+- [x] Both dictionaries in `script.js` have the same keys.
+- [x] No unfilled square-bracket placeholders are left in the page files.
+- [x] My page does not include a home address, phone number, ID number, or date of birth.
+- [ ] I tested the language button in both directions on the published page.
+- [ ] I tested every link on the published page.
 - [ ] I read my English text out loud and it sounds natural to me.
-- [ ] I can explain my profile in English, without reading it.
+- [ ] I can explain my profile in English without reading it.
